@@ -1,0 +1,122 @@
+#txt1 {
+    font-family: 'Rationale', sans-serif;
+    font-size: 5em;
+    text-align: center;
+    margin-top: 2%;
+}
+
+#img1 {
+    margin-left: 14%;
+    border-radius: 5px;
+}
+
+.counteiner{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    
+    
+ }
+
+
+
+#txtsp {
+    margin-left: 75%;
+    font-family: 'Rationale', sans-serif;
+    font-size: 1.5em;
+    margin-top: -19%;
+}
+
+
+#imgsp {
+    margin-left: 30%;
+    margin-top: 12%;
+    border-radius: 5px;
+}
+
+#imgmg {
+    margin-left: 5%;
+}
+
+#txtmg {
+    
+    font-family: 'Rationale', sans-serif;
+    font-size: 1.5em;
+    margin-left: 50%;
+    margin-top:-23%;
+}
+
+
+#rt {
+    margin-top: 4%;
+}
+
+#imggt {
+    margin-left: 30%;
+    margin-top: 14%;
+}
+
+#txtgt {
+    font-family: 'Rationale', sans-serif;
+    font-size: 1.5em;
+    margin-left: 75%;
+    margin-top:-19%;
+}
+
+#txtsense {
+    font-family: 'Rationale', sans-serif;
+    font-size: 1.5em;
+    margin-left: 50%;
+    margin-top:-20%;
+}
+
+#imgsense {
+    margin-left: 5%;
+}
+
+#rt2 {
+    margin-top: 4%;
+}
+
+#l2 {
+    margin-left: 7%;
+   margin-top: 8%;
+   list-style: none;
+   font-family: 'Rationale', sans-serif;
+   font-size: 1.5em;
+  
+}
+
+#l3 {
+    margin-left: 25%;
+    margin-top: -10%;
+    list-style: none;
+    font-family: 'Rationale', sans-serif;
+    font-size: 1.5em;
+}
+
+#l4 {
+    margin-left: 45%;
+    margin-top: -5%;
+    list-style: none;
+    font-family: 'Rationale', sans-serif;
+    font-size: 1.5em;
+}
+
+#l5 {
+    margin-left: 70%;
+    margin-top: -9%;
+    list-style: none;
+    font-family: 'Rationale', sans-serif;
+    font-size: 1.5em;
+}
+
+.titulo {
+    font-size: 3em;
+}
+
+#rodape {
+    margin-left: 3%;
+    margin-top: -37%;
+    margin-bottom: 7%;
+}

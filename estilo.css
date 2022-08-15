@@ -1,0 +1,112 @@
+#logo {
+    margin-top: 0%;
+   
+}
+ 
+#l1 {
+    display: flex;
+    margin-left: 40%;
+    margin-top: -6%;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Rationale', sans-serif;
+    font-size: 48px;
+    list-style: none;
+    word-spacing: 80px;
+   
+}
+
+#l1 a {
+    text-decoration: none;
+    color:black;
+}
+
+#SetaLogin {
+    margin-left: -6%;
+}
+ 
+#imgprincipal {
+    margin-top: 1%;
+    margin-left: 3%;
+    border: 4px;
+    border-radius: 4px;
+   
+}
+ 
+#not1 {
+    margin-top: 4%;
+   margin-left: 5%;
+}
+ 
+#txtnot1 {
+    margin-left: 30%;
+    margin-top: -9%;
+    font-size: 1.5em;
+    font-family: 'Rationale', sans-serif;
+}
+ 
+ 
+#not2 {
+    margin-top: 5%;
+   margin-left: 5%;
+}
+ 
+#txtnot2{
+    margin-left: 30%;
+    margin-top: -7%;
+    font-size: 1.5em;
+    font-family: 'Rationale', sans-serif;
+}
+ 
+#not3 {
+    margin-top: 5%;
+    margin-left: 5%;
+}
+ 
+#txtnot3{
+    margin-left: 30%;
+    margin-top: -7%;
+    font-size: 1.5em;
+    font-family: 'Rationale', sans-serif;
+}
+
+#l2 {
+    margin-left: 7%;
+   margin-top: 8%;
+   list-style: none;
+   font-family: 'Rationale', sans-serif;
+   font-size: 1.5em;
+  
+}
+
+#l3 {
+    margin-left: 25%;
+    margin-top: -10%;
+    list-style: none;
+    font-family: 'Rationale', sans-serif;
+    font-size: 1.5em;
+}
+
+#l4 {
+    margin-left: 45%;
+    margin-top: -5%;
+    list-style: none;
+    font-family: 'Rationale', sans-serif;
+    font-size: 1.5em;
+}
+
+#l5 {
+    margin-left: 70%;
+    margin-top: -9%;
+    list-style: none;
+    font-family: 'Rationale', sans-serif;
+    font-size: 1.5em;
+}
+
+.titulo {
+    font-size: 3em;
+}
+
+#rodape {
+    margin-bottom: 7%;
+}
+
